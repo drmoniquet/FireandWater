@@ -13,11 +13,8 @@ The installation uses a typewriter-style aesthetic to evoke the feeling of urgen
 - **Automatic Content Rotation**: Content changes every 15 seconds
 - **User Controls**: Previous, Pause/Play, and Next buttons for manual navigation
 - **Progress Indicator**: Visual progress bar showing timing until next content change
-- **Mixed Media Support**: Displays both text content and images with captions
-- **Expandable Content Library**: Easy to add new content through the JavaScript array
 - **Responsive Design**: Works on desktop and mobile devices
-- **Typewriter Aesthetic**: Uses Special Elite font for authentic typewriter feel
-
+- 
 ## Technical Structure
 
 The installation consists of:
@@ -30,7 +27,7 @@ The installation consists of:
 
 ### Adding New Content
 
-Content is stored in the `contentLibrary` array in `js/flash-script.js`. You can add new items in two formats:
+Content is stored in the `contentLibrary` array in `js/flash-script.js`. Add new items in two formats:
 
 **Text Content:**
 ```javascript
